@@ -105,9 +105,7 @@ header .navbar.nav-toggle {
 }
 
 .home {
-  background: url("/images/home-bg.jpg") no-repeat center center;
-  background-size: cover;
-  background-position: center;
+  background: linear-gradient(to bottom, #272d3b, #a9a9a9, #ffffff);
   min-height: 100vh;
   text-align: center;
 }
